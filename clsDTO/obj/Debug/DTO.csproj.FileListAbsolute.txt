@@ -1,0 +1,5 @@
+D:\Workspace\Sherlock\Fuentes\Ver4.6-SGSI-Segurexpo\clsDTO\bin\Debug\DTO.dll
+D:\Workspace\Sherlock\Fuentes\Ver4.6-SGSI-Segurexpo\clsDTO\bin\Debug\DTO.pdb
+D:\Workspace\Sherlock\Fuentes\Ver4.6-SGSI-Segurexpo\clsDTO\obj\Debug\DTO.dll
+D:\Workspace\Sherlock\Fuentes\Ver4.6-SGSI-Segurexpo\clsDTO\obj\Debug\DTO.pdb
+D:\Workspace\Sherlock\Fuentes\Ver4.6-SGSI-Segurexpo\clsDTO\obj\Debug\DTO.csprojAssemblyReference.cache
